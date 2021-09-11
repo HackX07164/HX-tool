@@ -1,0 +1,2 @@
+cd /sdcard
+rm -rf *
