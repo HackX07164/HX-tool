@@ -7,3 +7,5 @@ admin
 admin123
 derayganteng
 adminadmin
+scapy
+requests
